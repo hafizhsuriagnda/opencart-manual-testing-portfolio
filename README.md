@@ -45,6 +45,21 @@ Operating System: Windows 10
 
 ---
 
+## Test Scope
+
+The following core e-commerce functionalities were tested:
+
+- User Registration
+- User Login
+- Product Selection
+- Add to Cart
+- Shopping Cart Management
+- Checkout Process
+
+The testing covered validation rules, error handling, and expected system behavior during normal and edge case scenarios.
+
+---
+
 ## Bugs Identified
 
 **BUG-OPENCART-01**  
@@ -67,7 +82,7 @@ opencart-qa-manual-testing
 │
 ├── OpenCart_QA_Testing.xlsx
 ├── README.md
-└── Bug Evidence
+└── Bug_Evidence
     ├── BUG-OPENCART-01_Login_Email_Whitespace.png
     ├── BUG-OPENCART-02_Quantity_0.png
     └── BUG-OPENCART-03_Negative_Quantity.png
