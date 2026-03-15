@@ -82,10 +82,11 @@ Bug evidence screenshots are available in the `Bug Evidence` folder.
 ```
 opencart-qa-manual-testing
 │
-├── OpenCart_QA_Testing.xlsx
-├── README.md
-└── Bug_Evidence
+├── Bug_Evidence
     ├── BUG-OPENCART-01_Login_Email_Whitespace.png
     ├── BUG-OPENCART-02_Quantity_0.png
     └── BUG-OPENCART-03_Negative_Quantity.png
+├── Test-Documentation
+│   └ OpenCart_Testing.xlsx
+└──  README.md
 ```
