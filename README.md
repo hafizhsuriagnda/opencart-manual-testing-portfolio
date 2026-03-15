@@ -87,6 +87,6 @@ opencart-qa-manual-testing
     ├── BUG-OPENCART-02_Quantity_0.png
     └── BUG-OPENCART-03_Negative_Quantity.png
 ├── Test-Documentation
-│   └ OpenCart_Testing.xlsx
+│   └── OpenCart_Testing.xlsx
 └──  README.md
 ```
