@@ -17,7 +17,7 @@ The goal of this project is to showcase the QA testing workflow including:
 
 ---
 
-## Application Under Test
+## Test Environtment
 
 OpenCart v3.0.4.1  
 Environment: Localhost (XAMPP)  
