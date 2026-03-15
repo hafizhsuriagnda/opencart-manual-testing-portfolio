@@ -1,9 +1,10 @@
-# QA Manual Testing Portfolio – OpenCart
-This repository contains a manual QA testing portfolio project performed on the OpenCart e-commerce application.
+# QA Manual Testing Portfolio — OpenCart
 
-The project demonstrates the complete QA workflow including test case design, test execution, defect reporting, and test summary documentation.
+This repository contains a manual QA testing portfolio project conducted on the OpenCart e-commerce demo application.
+
 ## Project Overview
-This project demonstrates manual QA testing performed on the OpenCart e-commerce application.
+
+The objective of this project is to demonstrate the complete QA workflow including test scenario creation, test case design, test execution, bug reporting, and test summary documentation.
 
 The goal of this project is to showcase the QA testing workflow including:
 
