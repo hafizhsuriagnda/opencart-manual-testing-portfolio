@@ -80,7 +80,7 @@ Bug evidence screenshots are available in the `Bug Evidence` folder.
 ## Repository Structure
 
 ```
-opencart-qa-manual-testing
+opencart-manual-testing-portfolio
 │
 ├── Bug_Evidence
 │   ├── BUG-OPENCART-01_Login_Email_Whitespace.png
