@@ -52,6 +52,18 @@ The testing covered validation rules, error handling, and expected system behavi
 
 ---
 
+## Testing Approach
+
+The testing covered both positive and negative scenarios including:
+
+- Valid user registration
+- Invalid input validation
+- Login validation
+- Cart functionality validation
+- Edge cases such as zero quantity and negative quantity
+
+---
+
 ## Test Results
 
 | Metric | Count |
