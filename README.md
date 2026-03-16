@@ -77,16 +77,16 @@ The testing covered both positive and negative scenarios including:
 
 ## Bugs Identified
 
-**BUG-OPENCART-01**  - Medium
+**BUG-OPENCART-01**  - Medium,
 Login validation does not trim leading and trailing whitespace in email input.
 
-**BUG-OPENCART-02**  - Medium
+**BUG-OPENCART-02**  - Medium,
 System displays success message when quantity is set to 0.
 
-**BUG-OPENCART-03**  - High
+**BUG-OPENCART-03**  - High,
 System allows negative quantity values in the cart.
 
-Bug evidence screenshots are available in the `Bug Evidence` folder.
+Bug evidence screenshots are available in the `Bug_Evidence` folder.
 
 ---
 
