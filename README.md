@@ -72,7 +72,9 @@ The testing covered both positive and negative scenarios including:
 | Passed | 70 |
 | Failed | 3 |
 | Blocked | 1 |
+
 Most test cases passed successfully, with a small number of defects identified in login validation and cart functionality.
+
 ---
 
 ## Bugs Identified
